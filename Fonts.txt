@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Gilroy
+Author: Radomir Tinkov
+Url: https://www.fontsquirrel.com/fonts/gilroy
+
+Font: Ascardi Sans
+Author: Augusto Siccardi
+Url: https://www.fontsquirrel.com/fonts/ascardi-sans
+
+Font: Compagnon
+Author: Velvetyne
+Url: https://www.fontsquirrel.com/fonts/compagnon
